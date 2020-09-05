@@ -1,9 +1,9 @@
 # ANTI-GRAIN GEOMETRY for Teensy
 
-Based on Anti-Grain Geometry - Version 2.4
-Which is copyright (C) 2002-2005 Maxim Shemanarev (McSeem)
+Based on Anti-Grain Geometry 2.4, which is copyright (C) 2002-2005 Maxim Shemanarev (McSeem)
+
 For the original library, examples and docs, visit:
-http://www.antigrain.com/
+http://agg.sourceforge.net/antigrain.com/index.html
 
 ## Teensy 3.6 and above
 agg_t3 is a minimal adaptation of the original source to enable use of the library on the Teensy_3.6 (and possibly other microcontrollers).
